@@ -69,10 +69,4 @@ The data for this project is sourced from:
 Explore the dashboards on Tableau Public:  
 [Interactive Dashboards by Sashi Kiran Maddineni](https://public.tableau.com/app/profile/sashi.kiran.maddineni/viz/Project_1_Info5709_SashiKiran_Maddineni/Story1)
 
-## Contributors
-- **Sashi Kiran Maddineni**  
-  [Email](mailto:SashiKiranMaddineni@my.unt.edu)
-
----
-
 This project provides a dynamic approach to understanding the pandemic’s challenges and the efforts made globally to mitigate its impact. Let me know if you need further adjustments!
